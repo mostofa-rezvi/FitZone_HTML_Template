@@ -4,7 +4,7 @@
 
 A sleek, modern, and fully responsive one-page template designed for fitness centers, gyms, personal trainers, and wellness studios. Built with semantic HTML5, modern CSS3, and vanilla JavaScript, FitZone is lightweight, easy to customize, and ready to deploy.
 
-**[➡️ View Live Demo]([https://your-username.github.io/fitzone/](https://mostofa-rezvi.github.io/FitZone_HTML_Template/))** <!-- Replace with your live demo link (e.g., from GitHub Pages) -->
+**[➡️ View Live Demo]([https://your-username.github.io/fitzone/])
 
 ---
 
