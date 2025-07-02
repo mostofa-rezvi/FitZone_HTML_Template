@@ -8,7 +8,7 @@ A sleek, modern, and fully responsive one-page template designed for fitness cen
 
 ---
 
-## ✨ Features
+##  Features
 
 *   **Hero Section:** A welcoming header with a strong call-to-action.
 *   **About Us:** Share your story and mission.
@@ -24,7 +24,7 @@ A sleek, modern, and fully responsive one-page template designed for fitness cen
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 *   **HTML5:** Semantic and accessible markup.
 *   **CSS3:** Modern layouts using Flexbox and Grid, with custom properties for easy themeing.
@@ -32,7 +32,7 @@ A sleek, modern, and fully responsive one-page template designed for fitness cen
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 To get a local copy up and running, follow these simple steps.
 
@@ -56,7 +56,7 @@ You just need a web browser and a code editor.
 
 ---
 
-## 🎨 Customization
+##  Customization
 
 Customizing the template is straightforward:
 
@@ -76,7 +76,7 @@ Customizing the template is straightforward:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/fitzone/issues).
 
@@ -88,13 +88,13 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-## 📄 License
+##  License
 
 This project is distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 *   Images from [Unsplash](https://unsplash.com) / [Pexels](https://www.pexels.com)
 *   Icons from [Font Awesome](https://fontawesome.com) (or your chosen icon library)
